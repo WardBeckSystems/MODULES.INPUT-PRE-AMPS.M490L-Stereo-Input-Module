@@ -1,0 +1,316 @@
+{
+ "code": "M490L",
+ "connector": "RTO-144",
+ "type": "M490L - Stereo Input Module",
+ "series": null,
+ "contacts": "20 contacts (P1), 22 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "LEFT PGRM 1",
+   "kind": "audio",
+   "pair": "A3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "1",
+   "signal": "MIC IN A",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "LEFT PGRM 1",
+   "kind": "audio",
+   "pair": "A3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "RIGHT PGRM 1",
+   "kind": "audio",
+   "pair": "A4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "MIC IN B",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "RIGHT PGRM 1",
+   "kind": "audio",
+   "pair": "A4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "INSERT SEND",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "INSERT RETURN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+   "page": 1
+  },
+  {
+   "pin": "17",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "POST DIRECT OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490L/MANUALS/1983 - M490L - P007 - 2-3.jpg",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "2 CTL",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - MIXIEA BUSES RIGHT CMANNIL.jpg",
+   "page": 1
+  },
+  {
+   "pin": "A",
+   "signal": "MIC IN A",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "C",
+   "signal": "MIC IN B",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "F",
+   "signal": "INSERT SEND",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "H",
+   "signal": "INSERT RETURN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490L/M490L.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "L",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+   "page": 1
+  },
+  {
+   "pin": "M",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+   "page": 1
+  },
+  {
+   "pin": "R",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+   "page": 1
+  },
+  {
+   "pin": "V",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [
+  {
+   "function": "Insert",
+   "designation": "JMP.6.7",
+   "from": "P2-6",
+   "to": "P2-7"
+  },
+  {
+   "function": "Insert",
+   "designation": "JMP.F.H",
+   "from": "P2-F",
+   "to": "P2-H"
+  }
+ ],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.2,
+   "supply": "P2-19",
+   "ground": "P2-20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "P2-21",
+   "ground": "P2-20",
+   "link": 1
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M490L/M490L.rto144.json",
+  "Modules/INPUT-PRE-AMPS/M490L/MANUALS/1983 - M490L - P007 - 2-3.jpg",
+  "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - EXT RIOO RIOZ.jpg",
+  "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-02-010 - MIXIEA BUSES RIGHT CMANNIL.jpg"
+ ]
+}
