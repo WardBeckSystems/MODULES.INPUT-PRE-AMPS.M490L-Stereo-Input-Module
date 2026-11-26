@@ -21,7 +21,7 @@ Wiki page: [M490L](../../../../PAGES/M490L.md)
 - **Dots (junctions):** 5
 - **Words (OCR):** 45 in 43 lines: WBS · ao · Paogram · deore · nd · channe · Onaa · 7iring · Ihe · Pch · BAL ANCE · BALANCE conifoi
 
-Every curve, box, word and wire group: [1983 - M490L - 490-04-024 - SMILCH SWI THIS SICH THE MOMENIARY JCION IDC (traced).json](../MECHANICAL/1983%20-%20M490L%20-%20490-04-024%20-%20SMILCH%20SWI%20THIS%20SICH%20THE%20MOMENIARY%20JCION%20IDC%20(traced).json) (the CAD file: `1983 - M490L - 490-04-024 - SMILCH SWI THIS SICH THE MOMENIARY JCION IDC (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - 490-04-024 - SMILCH SWI THIS SICH THE MOMENIARY JCION IDC (traced).json](../MECHANICAL/1983%20-%20M490L%20-%20490-04-024%20-%20SMILCH%20SWI%20THIS%20SICH%20THE%20MOMENIARY%20JCION%20IDC%20%28traced%29.json) (the CAD file: `1983 - M490L - 490-04-024 - SMILCH SWI THIS SICH THE MOMENIARY JCION IDC (traced).dxf`).
 
 ## Full text
 

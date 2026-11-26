@@ -22,7 +22,7 @@ Wiki page: [M490L](../../../../PAGES/M490L.md)
 - **Words (OCR):** 81 in 67 lines: M49OL · sensiTivity · ijs ; · coniro · ranoe · contuousi · channei · sensitivity conicol · Rio: · Jioe · Left · Program AssiGhmemt
 - **Title block:** (231, 0)–(338, 53) mm: IsSu IDATE · Revision · WBS WARD-Beck SystemS · DRN · 3685 · M490l · cKD · STEREO INPUT Module · FRONT PANEL · ISCALE · ISSUE
 
-Every curve, box, word and wire group: [1983 - M490L - 490-04-024 - TOR THE INEI CONTROI RIO IDES CONT NUOUS (traced).json](../MECHANICAL/1983%20-%20M490L%20-%20490-04-024%20-%20TOR%20THE%20INEI%20CONTROI%20RIO%20IDES%20CONT%20NUOUS%20(traced).json) (the CAD file: `1983 - M490L - 490-04-024 - TOR THE INEI CONTROI RIO IDES CONT NUOUS (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - 490-04-024 - TOR THE INEI CONTROI RIO IDES CONT NUOUS (traced).json](../MECHANICAL/1983%20-%20M490L%20-%20490-04-024%20-%20TOR%20THE%20INEI%20CONTROI%20RIO%20IDES%20CONT%20NUOUS%20%28traced%29.json) (the CAD file: `1983 - M490L - 490-04-024 - TOR THE INEI CONTROI RIO IDES CONT NUOUS (traced).dxf`).
 
 ## Full text
 

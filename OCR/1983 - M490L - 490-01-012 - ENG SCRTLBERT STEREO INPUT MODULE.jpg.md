@@ -23,7 +23,7 @@ Wiki page: [M490L](../../../../PAGES/M490L.md)
 - **Title block:** (114, 14)–(333, 116) mm: REVISED Fb DIRECT OltpLTS · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN · BD 83 · M49OL · ENG · STEREO INPUT MODULE · CKD · FUNCTIONAL DIAGRAM · APp · "SCALE · ISSUE · 490-01-012
 - **Wiring (first pass):** 78 connected wire groups from 173 runs; labelled ends: 176 mm → REVISED; 124 mm → BAL; 103 mm → REVISED, DIRECT OltpLTS, APP; 103 mm → FB 1, Post DIRECT; 101 mm → AsiGN
 
-Every curve, box, word and wire group: [1983 - M490L - 490-01-012 - ENG SCRTLBERT STEREO INPUT MODULE (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%20490-01-012%20-%20ENG%20SCRTLBERT%20STEREO%20INPUT%20MODULE%20(traced).json) (the CAD file: `1983 - M490L - 490-01-012 - ENG SCRTLBERT STEREO INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - 490-01-012 - ENG SCRTLBERT STEREO INPUT MODULE (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%20490-01-012%20-%20ENG%20SCRTLBERT%20STEREO%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1983 - M490L - 490-01-012 - ENG SCRTLBERT STEREO INPUT MODULE (traced).dxf`).
 
 ## Full text
 

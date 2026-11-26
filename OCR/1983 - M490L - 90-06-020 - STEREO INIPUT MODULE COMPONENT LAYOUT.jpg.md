@@ -21,7 +21,7 @@ Wiki page: [M490L](../../../../PAGES/M490L.md)
 - **Dots (junctions):** 9
 - **Words (OCR):** 37 in 31 lines: 7070) · SOM · 14 · 22; · Ude · 1a 9af 0 · 19 391: · 19 · 39 · 38 · Rw=0; · Rlr e
 
-Every curve, box, word and wire group: [1983 - M490L - 90-06-020 - STEREO INIPUT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%2090-06-020%20-%20STEREO%20INIPUT%20MODULE%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1983 - M490L - 90-06-020 - STEREO INIPUT MODULE COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - 90-06-020 - STEREO INIPUT MODULE COMPONENT LAYOUT (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%2090-06-020%20-%20STEREO%20INIPUT%20MODULE%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1983 - M490L - 90-06-020 - STEREO INIPUT MODULE COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 

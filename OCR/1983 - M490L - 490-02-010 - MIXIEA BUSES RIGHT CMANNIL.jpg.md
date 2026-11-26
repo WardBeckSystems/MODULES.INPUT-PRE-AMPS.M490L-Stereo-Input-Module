@@ -23,7 +23,7 @@ Wiki page: [M490L](../../../../PAGES/M490L.md)
 - **Words (OCR):** 94 in 83 lines: 5w3 · BALANCE · OUTPUT} To · Mixia · Right · 842 · 7p1-3 · Pi-1 · Pem 2 · F8z · crZ · ioor
 - **Wiring (first pass):** 235 connected wire groups from 1,338 runs, 2 dotted junctions; labelled ends: 224 mm → 3125, Ae, 0/25; 222 mm → 15; 220 mm → WbS; 202 mm → 299/83, WbS, Czo cha~Ger; 174 mm → 55
 
-Every curve, box, word and wire group: [1983 - M490L - 490-02-010 - MIXIEA BUSES RIGHT CMANNIL (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%20490-02-010%20-%20MIXIEA%20BUSES%20RIGHT%20CMANNIL%20(traced).json) (the CAD file: `1983 - M490L - 490-02-010 - MIXIEA BUSES RIGHT CMANNIL (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - 490-02-010 - MIXIEA BUSES RIGHT CMANNIL (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%20490-02-010%20-%20MIXIEA%20BUSES%20RIGHT%20CMANNIL%20%28traced%29.json) (the CAD file: `1983 - M490L - 490-02-010 - MIXIEA BUSES RIGHT CMANNIL (traced).dxf`).
 
 ## Full text
 

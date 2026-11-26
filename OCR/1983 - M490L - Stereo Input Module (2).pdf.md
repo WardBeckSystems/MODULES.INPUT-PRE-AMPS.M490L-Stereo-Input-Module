@@ -26,7 +26,7 @@ Wiki page: [M490L](../../../../PAGES/M490L.md)
 - **Circles and arcs:** 5 circles, 0 arcs; largest r 5.0 @ (181.7, 243.9), r 2.9 @ (194.7, 224.8), r 2.9 @ (147.7, 225.1), r 1.9 @ (146.3, 399.5)
 - **Words (OCR):** 26 in 14 lines: [~E35iJ WAR S"II£NuE. T'EL!::........::NI! "'I1 '''3/3 -S!:ISO · YST · I"1'1ClGl"lES · ARIOM'''' · T!fLI." l;l8e·=399 · M4 · STEREO INPU MO UL · ps · BS · ~ANUAL ISSUe: 1/1 · DECEMBE · 1983
 
-Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p1 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p1 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p
 - **Circles and arcs:** 7 circles, 0 arcs; largest r 2.2 @ (181.2, 373.0), r 2.2 @ (68.8, 340.4), r 2.1 @ (164.7, 373.1), r 1.7 @ (266.4, 297.3)
 - **Words (OCR):** 87 in 43 lines: WA FI · CK SYS · MS L.T · TABLE OF CONTEN TS · M490l ST EREO INPU MODUL · Wllrrlln ty · Techn ical Dat · ircui Descrip ti on · Part List · Connec tor Layou · Appendi · C04016
 
-Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p2 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p2 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -46,7 +46,7 @@ Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p
 - **Circles and arcs:** 4 circles, 0 arcs; largest r 2.2 @ (204.8, 364.1), r 2.1 @ (224.9, 102.0), r 1.7 @ (213.0, 155.0), r 1.7 @ (209.0, 121.3)
 - **Words (OCR):** 211 in 92 lines: WA F=lD-BECK YS TE MS LTD · TECH IC · ATA · 1014901.. STER EO INPU · MODUL · 10 to · +10 Bm (re · 600 ol'lm sou rc · In!,ut Sen ti it · eQuen · Re spon se: · fr-om 30
 
-Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p3 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p3 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 67 in 32 lines: SYS EMS LTO · TE CHNICAL DA TA · M490L STE REO INPU MODULE · Mi mu · IOll'd imp ed llnc · 00 · Ma im" · load curr · 40 mA. · Maximum 11.Ipply · vol lage: · +24
 
-Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p4 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p4 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -68,7 +68,7 @@ Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p
 - **Dots (junctions):** 4
 - **Words (OCR):** 371 in 138 lines: SYS · LT · IRCU IT DESC RIP ION · MA90L STER EO INPU MOOULE · Th · M490L provides comple te Sl ..eo · nel rec uue · IU · equired · miNing console, inclusive of · Slereo mi Ning · ll enu
 
-Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p5 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p5 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -78,7 +78,7 @@ Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p
 - **Circles and arcs:** 8 circles, 0 arcs; largest r 2.2 @ (169.2, 356.5), r 2.1 @ (205.9, 356.5), r 2.1 @ (182.1, 249.1), r 1.7 @ (253.7, 315.5)
 - **Words (OCR):** 377 in 138 lines: IRCUIT DESCR IP ION · M4 90L STEREO INP UT MODUL · The preampl lf lel" OUIPu · is coup led via C1 10 · half · ml" lng · lt · tOI" ATTI · wilh · second · lf of ATT · used for Ihe I"i hl
 
-Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p6 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p6 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -89,7 +89,7 @@ Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p
 - **Closed boxes:** 1
 - **Words (OCR):** 332 in 159 lines: WARD-BECK · TD. · IRCU IT DESCRIPTION · MI<90L STEREO INPU MODUL · The ma ximum · ell ia io · fro · ce nter po it io · all ow · ll · ang from · dB to
 
-Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p7 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p7 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -100,7 +100,7 @@ Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p
 - **Dots (junctions):** 6
 - **Words (OCR):** 388 in 161 lines: WA · SYSTEMS LTO · IRCU IT DESCR IP ON · M490L STEREO INP UT MODULE · 10 · CMOS dual fliE) _flOP sel"Ving · lalch 10 m.inl. in Ih · us of the swilches, once Ih · h.ve · set 10 ei lher Ihe ON or · lhe OFF ;>osi lion · mber
 
-Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p8 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p8 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -111,7 +111,7 @@ Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p
 - **Dots (junctions):** 2
 - **Words (OCR):** 322 in 106 lines: BE CK SYS TEMS TD · CIRCU IT DESCR IP ION · 1-1 49 01.. STER EO INP UT MODULE · Momen a,.y ope,.alion of the CHANNEL OFF swi lch SWS · or momenl_ · a"y 9t"OUnd clolu.-e of · EXTERNA · CHANNEL OFF con ll"Ol InpUI · P2 · in 12 will · ll in · negal ive going pulse al l10 in
 
-Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p9 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p9 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -123,7 +123,7 @@ Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p
 - **Dots (junctions):** 1
 - **Words (OCR):** 312 in 121 lines: LTD. · WAR · CK YS · MS · CIRCUIT DESCR IP TIO · M490L STEREO INPUT MODUL · Th · ON · etu · CUE ch tlnn el · is indiC llted by 052 · is driv en
 
-Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p10 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p10 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -132,7 +132,7 @@ Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p
 - **Outlines:** line 439 rings, 3,600 straight (6,505 mm) / 867 curved (1,359 mm); text 967 rings, 7,547 straight (8,536 mm) / 2,274 curved (3,618 mm)
 - **Words (OCR):** 188 in 109 lines: WA~ · BE CI( YSTEMS · LTD · 1044901. STEREO INPUT MODULE · DESCR IPTION · MFG PART NUMBER · Allenu tor, c/w connector · PM; · l55D /AH35 100 · Cap~c; lor · uF /IO · TJ906475MOIOAS
 
-Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p11 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - Stereo Input Module (2) p11 (traced).json](../MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1983 - M490L - Stereo Input Module (2) p11 (traced).dxf`).
 
 ## Full text
 

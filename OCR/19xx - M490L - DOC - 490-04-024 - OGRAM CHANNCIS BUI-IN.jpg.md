@@ -23,7 +23,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 30 in 27 lines: WBS · V490L · llce · Lenicel · Tanat · enans · "Fom · pproncial · cutral · cranne · FDLOBACR · contol
 - **Title block:** (199, 20)–(432, 276) mm: WBS · V490L · Lenicel · Tanat · enans · pproncial · cutral · cranne · contol · FB 2 · Icvela · tnannele · Ehan · 67 · OFF · "ROGAAU tnannela · DUFTt · WBS WARD-DeCk SySTeMS · M490[
 
-Every curve, box, word and wire group: [19xx - M490L - DOC - 490-04-024 - OGRAM CHANNCIS BUI-IN (traced).json](../MECHANICAL/19xx%20-%20M490L%20-%20DOC%20-%20490-04-024%20-%20OGRAM%20CHANNCIS%20BUI-IN%20(traced).json) (the CAD file: `19xx - M490L - DOC - 490-04-024 - OGRAM CHANNCIS BUI-IN (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M490L - DOC - 490-04-024 - OGRAM CHANNCIS BUI-IN (traced).json](../MECHANICAL/19xx%20-%20M490L%20-%20DOC%20-%20490-04-024%20-%20OGRAM%20CHANNCIS%20BUI-IN%20%28traced%29.json) (the CAD file: `19xx - M490L - DOC - 490-04-024 - OGRAM CHANNCIS BUI-IN (traced).dxf`).
 
 ## Full text
 

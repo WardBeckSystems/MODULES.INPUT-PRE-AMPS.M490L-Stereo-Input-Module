@@ -24,7 +24,7 @@ Wiki page: [M490L](../../../../PAGES/M490L.md)
 - **Title block:** (231, 0)–(289, 55) mm: Essu DATE · WBS · Tr; 9/83 · IR · CKD · SCALE
 - **Wiring (first pass):** 97 connected wire groups from 564 runs; labelled ends: 298 mm → 612; 187 mm → R23, 22k, R2s, Rze; 118 mm → R23, 22k, R24, 22K; 104 mm → R3?, 2-2/25; 86 mm → R 37, 25
 
-Every curve, box, word and wire group: [1983 - M490L - 12-02-002 - CONTROL CIB RJI LOOP (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%2012-02-002%20-%20CONTROL%20CIB%20RJI%20LOOP%20(traced).json) (the CAD file: `1983 - M490L - 12-02-002 - CONTROL CIB RJI LOOP (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - 12-02-002 - CONTROL CIB RJI LOOP (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%2012-02-002%20-%20CONTROL%20CIB%20RJI%20LOOP%20%28traced%29.json) (the CAD file: `1983 - M490L - 12-02-002 - CONTROL CIB RJI LOOP (traced).dxf`).
 
 ## Full text
 

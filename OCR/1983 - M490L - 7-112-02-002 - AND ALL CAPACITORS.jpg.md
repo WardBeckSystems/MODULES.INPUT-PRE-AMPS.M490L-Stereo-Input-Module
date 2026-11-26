@@ -23,7 +23,7 @@ Wiki page: [M490L](../../../../PAGES/M490L.md)
 - **Words (OCR):** 93 in 79 lines: Channel on 0 5 · cr2 · Coutrol · cri · E6 · CUT Coutrol · ri · Czo R34 · boosTeR · NPUT · 31/10 · Zok
 - **Wiring (first pass):** 74 connected wire groups from 410 runs, 2 dotted junctions; labelled ends: 234 mm → sole, AAhe; 112 mm → Rsc, 820, CRa, R1; 100 mm → R8, Jok; 94 mm → AAhe, ioop; 56 mm → 243563, crs, 22125
 
-Every curve, box, word and wire group: [1983 - M490L - 7-112-02-002 - AND ALL CAPACITORS (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%207-112-02-002%20-%20AND%20ALL%20CAPACITORS%20(traced).json) (the CAD file: `1983 - M490L - 7-112-02-002 - AND ALL CAPACITORS (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - 7-112-02-002 - AND ALL CAPACITORS (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%207-112-02-002%20-%20AND%20ALL%20CAPACITORS%20%28traced%29.json) (the CAD file: `1983 - M490L - 7-112-02-002 - AND ALL CAPACITORS (traced).dxf`).
 
 ## Full text
 

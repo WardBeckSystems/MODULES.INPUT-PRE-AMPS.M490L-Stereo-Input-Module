@@ -22,7 +22,7 @@ Wiki page: [M490L](../../../../PAGES/M490L.md)
 - **Words (OCR):** 46 in 43 lines: FADER · (-10db) Ch OM · BAL · inseRT · insER · LEfT · B LEFT · SENSitivity · (z0db) · LINe · inputs · CUE
 - **Wiring (first pass):** 192 connected wire groups from 447 runs; labelled ends: 130 mm → (-10db), CUE; 121 mm → LEfT, B Right, Input; 120 mm → Pgmi, CUE, CTL, Logic; 104 mm → Pgmi, CTL, Logic; 92 mm → insER
 
-Every curve, box, word and wire group: [1983 - M490L - 490-01-012 - TIMER RESET OFF TALLY OFFISTOP FADER (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%20490-01-012%20-%20TIMER%20RESET%20OFF%20TALLY%20OFFISTOP%20FADER%20(traced).json) (the CAD file: `1983 - M490L - 490-01-012 - TIMER RESET OFF TALLY OFFISTOP FADER (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - 490-01-012 - TIMER RESET OFF TALLY OFFISTOP FADER (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%20490-01-012%20-%20TIMER%20RESET%20OFF%20TALLY%20OFFISTOP%20FADER%20%28traced%29.json) (the CAD file: `1983 - M490L - 490-01-012 - TIMER RESET OFF TALLY OFFISTOP FADER (traced).dxf`).
 
 ## Full text
 

@@ -37,7 +37,7 @@ Wiki page: [M490L](../../../../PAGES/M490L.md)
 - **Title block:** (231, 0)–(338, 55) mm: Issue Date · WBS WARD-Beck sybteme · Tr; 9783 · 7-M12A · IR · CHANNEL Amplifier · CKD · RZ · SCHEMATIC · SCALE · 7_12-02-002
 - **Wiring (first pass):** 95 connected wire groups from 586 runs, 2 dotted junctions; labelled ends: 281 mm → E 8, 4li; 191 mm → ES; 190 mm → R2s, R23, 22k, 2eok; 107 mm → Sk, Rzi, Rz0; 85 mm → R37, 25
 
-Every curve, box, word and wire group: [1983 - 7-112-02-002 - 7-112A CHANNEL AMPLIFIER SCHEMATIC - DRN TR - ENG TR - ISS 1 (traced).json](../SCHEMATICS/1983%20-%207-112-02-002%20-%207-112A%20CHANNEL%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20TR%20-%20ENG%20TR%20-%20ISS%201%20(traced).json) (the CAD file: `1983 - 7-112-02-002 - 7-112A CHANNEL AMPLIFIER SCHEMATIC - DRN TR - ENG TR - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - 7-112-02-002 - 7-112A CHANNEL AMPLIFIER SCHEMATIC - DRN TR - ENG TR - ISS 1 (traced).json](../SCHEMATICS/1983%20-%207-112-02-002%20-%207-112A%20CHANNEL%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20TR%20-%20ENG%20TR%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1983 - 7-112-02-002 - 7-112A CHANNEL AMPLIFIER SCHEMATIC - DRN TR - ENG TR - ISS 1 (traced).dxf`).
 
 ## Full text
 

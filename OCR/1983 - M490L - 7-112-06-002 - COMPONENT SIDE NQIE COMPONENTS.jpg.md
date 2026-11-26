@@ -21,7 +21,7 @@ Wiki page: [M490L](../../../../PAGES/M490L.md)
 - **Words (OCR):** 90 in 76 lines: 8 8888887-112 · VEZ 01 · CaNADA · 0 e3 0ei? · Rti · Ahe ick- · 817: · no · R42 · ~ca? · Oop · 23
 - **Title block:** (305, 0)–(338, 47) mm: DRN TR · ENG Tr_ · CKD K U · App · SCALE
 
-Every curve, box, word and wire group: [1983 - M490L - 7-112-06-002 - COMPONENT SIDE NQIE COMPONENTS (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%207-112-06-002%20-%20COMPONENT%20SIDE%20NQIE%20COMPONENTS%20(traced).json) (the CAD file: `1983 - M490L - 7-112-06-002 - COMPONENT SIDE NQIE COMPONENTS (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490L - 7-112-06-002 - COMPONENT SIDE NQIE COMPONENTS (traced).json](../SCHEMATICS/1983%20-%20M490L%20-%207-112-06-002%20-%20COMPONENT%20SIDE%20NQIE%20COMPONENTS%20%28traced%29.json) (the CAD file: `1983 - M490L - 7-112-06-002 - COMPONENT SIDE NQIE COMPONENTS (traced).dxf`).
 
 ## Full text
 
