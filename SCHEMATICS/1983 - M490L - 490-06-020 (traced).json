@@ -1,0 +1,71 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490L/SCHEMATICS/1983 - M490L - 490-06-020.jpg",
+ "version": 1,
+ "trace": "_traces/a342a6c088393420.svg",
+ "sheet": {
+  "number": "490-06-020",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [7.1, 11.2, 338.6, 420.1],
+ "outlines": {
+  "line": {"rings": 1101, "straight": {"n": 10889, "mm": 15328.4}, "curved": {"n": 3660, "mm": 3812.6}},
+  "text": {"rings": 60, "straight": {"n": 586, "mm": 497.9}, "curved": {"n": 204, "mm": 236.2}}
+ },
+ "circles": [
+  {"c": [142.4, 191.8], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [57.5, 339.5], "r": 3.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [231.6, 339.6], "r": 3.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [124.5, 149.9], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [102.0, 149.8], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5}
+ ],
+ "boxes": [
+  {"mm": [100.4, 351.9, 102.8, 367.7], "w": 2.4, "h": 15.8, "from": "ring"},
+  {"mm": [78.4, 352.1, 81.2, 367.5], "w": 2.9, "h": 15.3, "from": "ring"},
+  {"mm": [90.9, 352.1, 93.3, 367.5], "w": 2.4, "h": 15.3, "from": "ring"},
+  {"mm": [128.5, 352.1, 131.1, 367.5], "w": 2.6, "h": 15.3, "from": "ring"},
+  {"mm": [134.7, 352.1, 137.1, 367.5], "w": 2.4, "h": 15.3, "from": "ring"},
+  {"mm": [147.0, 351.9, 149.8, 367.5], "w": 2.9, "h": 15.5, "from": "ring"},
+  {"mm": [178.1, 351.9, 180.9, 367.5], "w": 2.8, "h": 15.6, "from": "ring"},
+  {"mm": [181.6, 351.7, 183.7, 367.5], "w": 2.2, "h": 15.8, "from": "ring"},
+  {"mm": [184.4, 351.9, 187.0, 367.5], "w": 2.6, "h": 15.5, "from": "ring"},
+  {"mm": [287.6, 337.8, 290.2, 340.0], "w": 2.6, "h": 2.2, "from": "ring"},
+  {"mm": [329.7, 304.2, 331.8, 306.4], "w": 2.2, "h": 2.2, "from": "ring"},
+  {"mm": [269.0, 262.1, 271.4, 264.9], "w": 2.4, "h": 2.8, "from": "ring"},
+  {"mm": [316.9, 262.5, 319.7, 264.9], "w": 2.8, "h": 2.4, "from": "ring"},
+  {"mm": [147.9, 245.7, 150.3, 248.1], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [193.2, 163.4, 217.0, 166.7], "w": 23.7, "h": 3.2, "from": "ring"},
+  {"mm": [97.2, 144.4, 106.1, 155.4], "w": 8.9, "h": 11.0, "from": "ring"},
+  {"mm": [120.0, 144.2, 129.1, 155.4], "w": 9.1, "h": 11.2, "from": "ring"},
+  {"mm": [61.3, 104.3, 87.9, 112.7], "w": 26.6, "h": 8.4, "from": "ring"},
+  {"mm": [99.7, 104.3, 126.1, 112.5], "w": 26.3, "h": 8.2, "from": "ring"}
+ ],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [168.4, 339.4, 186.1, 347.6], "text": "449"},
+   {"mm": [243.5, 340.9, 251.1, 345.2], "text": "(LI"},
+   {"mm": [302.0, 335.7, 329.5, 342.2], "text": "(Sam"},
+   {"mm": [193.4, 223.2, 199.3, 227.1], "text": "29"},
+   {"mm": [215.0, 223.7, 220.9, 227.5], "text": "23"}
+  ]
+ },
+ "dots": [{"c": [297.8, 295.5], "r": 1.4, "lines": 0}, {"c": [169.4, 173.7], "r": 0.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 490-06-020, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 7–339 mm across, 11–420 mm up",
+  "- **Outlines:** line 1,101 rings, 10,889 straight (15,328 mm) / 3,660 curved (3,813 mm); text 60 rings, 586 straight (498 mm) / 204 curved (236 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 5.0 @ (142.4, 191.8), r 3.8 @ (57.5, 339.5), r 3.8 @ (231.6, 339.6), r 2.0 @ (124.5, 149.9)",
+  "- **Closed boxes:** 19",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 5 in 5 lines: 449 · (LI · (Sam · 29 · 23"
+ ]
+}

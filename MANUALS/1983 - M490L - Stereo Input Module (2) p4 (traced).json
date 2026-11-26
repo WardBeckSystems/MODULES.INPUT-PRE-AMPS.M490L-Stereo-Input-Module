@@ -1,0 +1,76 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490L/MANUALS/1983 - M490L - Stereo Input Module (2).pdf",
+ "page": 4,
+ "version": 1,
+ "trace": "_traces/30203581c9e94205-p4.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "4", "pages": "11"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 337.7, 428.1],
+ "outlines": {
+  "line": {"rings": 323, "straight": {"n": 2878, "mm": 5619.3}, "curved": {"n": 670, "mm": 1017.1}},
+  "text": {"rings": 289, "straight": {"n": 1904, "mm": 2124.0}, "curved": {"n": 515, "mm": 818.7}}
+ },
+ "circles": [
+  {"c": [200.8, 357.7], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [72.2, 255.1], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 67,
+  "lines": [
+   {"mm": [87.0, 411.3, 145.1, 416.8], "text": "SYS EMS LTO"},
+   {"mm": [142.5, 367.5, 198.4, 372.7], "text": "TE CHNICAL DA TA"},
+   {"mm": [120.5, 353.9, 219.6, 359.1], "text": "M490L STE REO INPU MODULE"},
+   {"mm": [46.6, 326.9, 68.7, 332.2], "text": "Mi mu"},
+   {"mm": [79.2, 326.9, 126.5, 332.2], "text": "IOll'd imp ed llnc"},
+   {"mm": [156.5, 326.9, 162.4, 332.2], "text": "00"},
+   {"mm": [46.6, 320.0, 69.5, 325.2], "text": "Ma im\""},
+   {"mm": [80.3, 320.0, 111.8, 325.2], "text": "load curr"},
+   {"mm": [152.9, 320.4, 173.8, 325.7], "text": "40 mA."},
+   {"mm": [46.6, 313.3, 101.9, 318.5], "text": "Maximum 11.Ipply"},
+   {"mm": [106.7, 313.3, 133.0, 318.5], "text": "vol lage:"},
+   {"mm": [152.9, 313.7, 162.6, 319.0], "text": "+24"},
+   {"mm": [177.7, 313.7, 182.4, 319.0], "text": "lS"},
+   {"mm": [46.0, 306.4, 106.4, 311.6], "text": "SlItur\"tedcollec to"},
+   {"mm": [46.2, 300.1, 73.0, 305.4], "text": "voltllge:"},
+   {"mm": [46.2, 286.5, 115.5, 291.8], "text": "Power ReQu iremen ts,"},
+   {"mm": [152.9, 286.5, 203.6, 291.8], "text": "+/_25 vol lS dc,"},
+   {"mm": [209.4, 286.5, 260.6, 291.8], "text": "40 mA nomin\"l,"},
+   {"mm": [152.9, 279.2, 205.5, 287.3], "text": "eo mA m.\"imum"},
+   {"mm": [160.8, 266.6, 165.4, 271.9], "text": "to"},
+   {"mm": [170.3, 266.6, 236.6, 272.2], "text": "60 degrees Ce ls ius."},
+   {"mm": [170.3, 253.0, 185.2, 258.3], "text": "wide"},
+   {"mm": [198.2, 253.0, 204.0, 258.3], "text": "14"},
+   {"mm": [222.6, 253.0, 236.6, 258.3], "text": "high"},
+   {"mm": [267.1, 253.0, 281.1, 258.3], "text": "deep"},
+   {"mm": [167.3, 246.3, 176.4, 251.6], "text": "mm"},
+   {"mm": [189.1, 246.3, 212.2, 251.6], "text": "36D mm"},
+   {"mm": [225.6, 246.3, 250.7, 251.6], "text": "165 mmJ"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [171.5, 316.5], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–338 mm across, 0–428 mm up",
+  "- **Outlines:** line 323 rings, 2,878 straight (5,619 mm) / 670 curved (1,017 mm); text 289 rings, 1,904 straight (2,124 mm) / 515 curved (819 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.2 @ (200.8, 357.7), r 1.7 @ (72.2, 255.1)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 67 in 32 lines: SYS EMS LTO · TE CHNICAL DA TA · M490L STE REO INPU MODULE · Mi mu · IOll'd imp ed llnc · 00 · Ma im\" · load curr · 40 mA. · Maximum 11.Ipply · vol lage: · +24"
+ ]
+}

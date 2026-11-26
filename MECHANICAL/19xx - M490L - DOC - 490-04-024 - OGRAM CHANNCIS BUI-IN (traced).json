@@ -1,0 +1,100 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490L/MECHANICAL/19xx - M490L - DOC - 490-04-024 - OGRAM CHANNCIS BUI-IN.jpg",
+ "version": 1,
+ "trace": "_traces/a3a7e875dd00e3ef.svg",
+ "sheet": {
+  "number": "490-04-024",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1298],
+  "mm": [431.8, 280.2],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 3.5, 431.8, 280.2],
+ "outlines": {
+  "line": {"rings": 651, "straight": {"n": 5162, "mm": 10517.7}, "curved": {"n": 965, "mm": 1072.5}},
+  "text": {"rings": 170, "straight": {"n": 977, "mm": 828.2}, "curved": {"n": 298, "mm": 361.6}},
+  "tb": {"rings": 661, "straight": {"n": 4586, "mm": 6737.4}, "curved": {"n": 1070, "mm": 1280.6}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [376.3, 33.0, 382.4, 35.8], "w": 6.0, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [382.8, 32.8, 388.8, 35.8], "w": 6.0, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [421.0, 32.2, 427.1, 35.0], "w": 6.0, "h": 2.8, "from": "ring", "in_title_block": true},
+  {"mm": [359.7, 5.2, 375.5, 11.2], "w": 15.8, "h": 6.0, "from": "ring"},
+  {"mm": [375.7, 5.0, 381.9, 11.0], "w": 6.3, "h": 6.0, "from": "ring"},
+  {"mm": [382.1, 4.3, 413.7, 10.8], "w": 31.5, "h": 6.5, "from": "ring", "words": ["490-04-024"]},
+  {"mm": [414.1, 4.1, 426.4, 10.1], "w": 12.3, "h": 6.0, "from": "ring"}
+ ],
+ "text": {
+  "words": 30,
+  "lines": [
+   {"mm": [208.1, 267.1, 214.6, 270.4], "text": "WBS"},
+   {"mm": [223.7, 266.4, 231.2, 269.8], "text": "V490L"},
+   {"mm": [104.7, 247.9, 110.5, 250.0], "text": "llce"},
+   {"mm": [314.1, 250.0, 321.7, 251.7], "text": "Lenicel"},
+   {"mm": [329.2, 247.4, 335.1, 249.1], "text": "Tanat"},
+   {"mm": [306.6, 245.7, 314.8, 247.4], "text": "enans"},
+   {"mm": [128.7, 222.8, 134.7, 227.1], "text": "\"Fom"},
+   {"mm": [334.6, 216.5, 347.2, 218.2], "text": "pproncial"},
+   {"mm": [308.7, 196.0, 316.3, 197.7], "text": "cutral"},
+   {"mm": [345.0, 192.8, 354.7, 194.5], "text": "cranne"},
+   {"mm": [77.3, 184.8, 88.1, 187.0], "text": "FDLOBACR"},
+   {"mm": [320.0, 177.7, 327.5, 179.4], "text": "contol"},
+   {"mm": [220.0, 172.1, 226.5, 175.2], "text": "FB 2"},
+   {"mm": [346.5, 176.6, 353.0, 178.8], "text": "Icvela"},
+   {"mm": [301.8, 126.7, 311.8, 129.9], "text": "tnannele"},
+   {"mm": [348.0, 125.9, 354.1, 128.0], "text": "Ehan"},
+   {"mm": [95.4, 86.6, 102.6, 88.7], "text": "4cilon"},
+   {"mm": [310.7, 78.8, 322.6, 83.6], "text": "67"},
+   {"mm": [89.6, 70.0, 98.9, 72.1], "text": "Indicalor"},
+   {"mm": [215.7, 63.0, 221.5, 66.4], "text": "OFF"},
+   {"mm": [319.1, 54.2, 339.6, 57.0], "text": "\"ROGAAU tnannela"},
+   {"mm": [293.2, 51.6, 302.3, 53.3], "text": "DUFTt"},
+   {"mm": [366.2, 25.3, 425.1, 30.2], "text": "WBS WARD-DeCk SySTeMS"},
+   {"mm": [396.4, 18.4, 406.1, 22.2], "text": "M490["},
+   {"mm": [385.2, 14.5, 416.9, 18.3], "text": "STEREO INPUT MODULE"},
+   {"mm": [390.6, 11.2, 411.5, 15.1], "text": "FRONT PANEL"},
+   {"mm": [388.6, 6.3, 406.3, 8.4], "text": "490-04-024"}
+  ]
+ },
+ "title_block": {
+  "mm": [199.4, 19.8, 431.8, 275.9],
+  "from": "title-block words (training set)",
+  "text": [
+   "WBS",
+   "V490L",
+   "Lenicel",
+   "Tanat",
+   "enans",
+   "pproncial",
+   "cutral",
+   "cranne",
+   "contol",
+   "FB 2",
+   "Icvela",
+   "tnannele",
+   "Ehan",
+   "67",
+   "OFF",
+   "\"ROGAAU tnannela",
+   "DUFTt",
+   "WBS WARD-DeCk SySTeMS",
+   "M490["
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 490-04-024, size B (assumed) 432 × 280 mm, 2000 × 1298 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 4–280 mm up",
+  "- **Outlines:** line 651 rings, 5,162 straight (10,518 mm) / 965 curved (1,072 mm); text 170 rings, 977 straight (828 mm) / 298 curved (362 mm); tb 661 rings, 4,586 straight (6,737 mm) / 1,070 curved (1,281 mm)",
+  "- **Closed boxes:** 7 (3 in the title block); named: 490-04-024",
+  "- **Words (OCR):** 30 in 27 lines: WBS · V490L · llce · Lenicel · Tanat · enans · \"Fom · pproncial · cutral · cranne · FDLOBACR · contol",
+  "- **Title block:** (199, 20)–(432, 276) mm: WBS · V490L · Lenicel · Tanat · enans · pproncial · cutral · cranne · contol · FB 2 · Icvela · tnannele · Ehan · 67 · OFF · \"ROGAAU tnannela · DUFTt · WBS WARD-DeCk SySTeMS · M490["
+ ]
+}
