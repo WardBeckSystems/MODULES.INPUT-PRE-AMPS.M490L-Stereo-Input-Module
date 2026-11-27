@@ -174,6 +174,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKdmswNFRuaExVdVU/view?resourcekey=0-9ubdN9eYHR6KhyYDIgB6rw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKdmswNFRuaExVdVU&resourcekey=0-9ubdN9eYHR6KhyYDIgB6rw" width="240" alt="1983 - M490L - 490-04-024 - SMILCH SWI THIS SICH THE MOMENIARY JCION IDC.jpg"></a><br><sub>1983|16 · 490-04-024 - SMILCH SWI THIS SICH THE MOMENIARY JCION IDC · <a href="MECHANICAL/1983%20-%20M490L%20-%20490-04-024%20-%20SMILCH%20SWI%20THIS%20SICH%20THE%20MOMENIARY%20JCION%20IDC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQkxvcldrb0Y2ZTg/view?resourcekey=0-9qeOtFu1WxNuMBpqcQTsWA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQkxvcldrb0Y2ZTg&resourcekey=0-9qeOtFu1WxNuMBpqcQTsWA" width="240" alt="1983 - M490L - 490-04-024 - TOR THE INEI CONTROI RIO IDES CONT NUOUS.jpg"></a><br><sub>1983|16 · 490-04-024 - TOR THE INEI CONTROI RIO IDES CONT NUOUS · <a href="MECHANICAL/1983%20-%20M490L%20-%20490-04-024%20-%20TOR%20THE%20INEI%20CONTROI%20RIO%20IDES%20CONT%20NUOUS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1DR7sv19TsvtBcacb5ppInNZxagDrSHwJ/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1DR7sv19TsvtBcacb5ppInNZxagDrSHwJ" width="240" alt="19xx - M490L - DOC - 490-04-024 - OGRAM CHANNCIS BUI-IN.jpg"></a><br><sub>19xx - M490L - DOC - 490-04-024 - OGRAM CHANNCIS BUI-IN</sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M490L.stl`](MECHANICAL/M490L.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490L)
+
+- **Size:** 41 × 360 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: wide 14.15" high (41 Mm 360 mm 165 Mm) deep)
+- **From the drawing:** 11 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M490L - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M490L.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
