@@ -1,0 +1,75 @@
+{
+ "module": "M490L",
+ "title": "M49OL STEREO INPUT MODULE",
+ "source": {
+  "file": "MANUALS/1983 - M490L - P004 - 1-2.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.95,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Minimum load impedance",
+   "key": "minimum_load_impedance",
+   "text": "Maximum Load current: Maximum supp voltage: Saturated collector voltage: 600 ohms 40 MA. +24 volts_ volts maximum 40 MA load.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 40,
+     "unit": "MA"
+    },
+    {
+     "value": 24,
+     "unit": "volts"
+    },
+    {
+     "value": 40,
+     "unit": "MA"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+/-25 volts dc, MA maximum MA nominal",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "degrees Celsius"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "wide 14.15\" high (41 Mm 360 mm 165 Mm) deep",
+   "quantities": [
+    {
+     "value": 14.15,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "Mm"
+    },
+    {
+     "value": 360,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "Mm"
+    }
+   ]
+  }
+ ]
+}

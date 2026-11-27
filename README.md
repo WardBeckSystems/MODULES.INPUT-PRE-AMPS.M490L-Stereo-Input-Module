@@ -13,6 +13,159 @@ Ward-Beck Systems M490L, 1983|16. Wiki page: [M490L on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 45 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+## Specifications
+
+From the technical data sheet: [1983 - M490L - P004 - 1-2.jpg](MANUALS/1983%20-%20M490L%20-%20P004%20-%201-2.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Minimum load impedance** | Maximum Load current: Maximum supp voltage: Saturated collector voltage: 600 ohms 40 MA. +24 volts_ volts maximum 40 MA load. |
+| **Power requirements** | +/-25 volts dc, MA maximum MA nominal |
+| **Ambient temperature** | degrees Celsius |
+| **Dimensions** | wide 14.15&quot; high (41 Mm 360 mm 165 Mm) deep |
+
+## Circuit description
+
+From [1983 - M490L - Stereo Input Module (2).pdf](MANUALS/1983%20-%20M490L%20-%20Stereo%20Input%20Module%20(2).pdf) pages 2-7 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+Parts List
+
+Connector Layou l
+
+Appendi,,:
+
+C04016 Circuit Data C04016 74C 76 Circuit Dll t a 74C76 74C221 Circui l Data 74C221
+
+Drawings' Front Panel 8 490-04_024 Functional 8490_0 1-0 12 Sehematic 8490-02_0 10 Component Layout 8490-06_020
+
+'&quot; MOdules and Sub -Assembly
+
+7 _ 112A Channel Amplifier
+
+Parts List Drawings:
+
+Se hema tic 87-tI 2-02_ oo 2 Componen l Lay o ul 8 7-11 2_06 _00 2 a
+
+**1014901.. STEREO INPUT MODULE**
+
+In!,ut Sen s i ti v it y: _ 10 to +10 dBm (re f. 600 ol'lm source).
+
+F.. eQuen c y Response: +/ _0.5 d B fr-om 30 Hz 1020 kHz.
+
+75 dB below nomin el OPe&quot;.lin g le&quot;e l, will'l mixing anenulno.. 5e l. 1 10 dB &quot;in_l'Iand&quot; (20 Hz 10 20 kHz).
+
+H&quot;,..monic Di Sto.. t lon: Less 1I.,,,,n 0.25' THD from 30 Hz 10 20 kHz e t 20 dB e bov e nominal ope &quot;a ling le &quot;el.
+
+Less lnan 0.1'., I kHz al 20 dB ebeve nominal OPe&quot;.l lng level.
+
+Less Il'Ian 0.51., 1 kHz Il'Irougl'l Cue c l'lanne l.1 20 d B.bo&quot;e nominal op e &quot; ali n g l e&quot;e l.
+
+Source Impedence: 600 ohm &quot; or less, b&quot;, l&quot;, nced.
+
+lnpul Imped.. n c e:
+
+OUlpul lmped.. n ce s: 30,000 otun s, balanced (prog..am c ircu il s). 60,000 ohms, balanced (cue c i..cu il s).
+
+1,000 ohms, balanced {poSI directl.
+
+OU lp UI Le &quot;e l: o dBm nomin.l, +20 dBm m&quot;,x imum. CI'I.nnet Sep..... lion:
+
+P l'le sing: l np u land OUI!'ut lerm inal s de signaled by numbe..s e &quot; eIn p l'l e se, or low e..
+
+numbe.. of numb e..ed p e l.. i&quot; in p l'l e se wi ll'l lowe.. numb e.. 0 1 o ll'le.. nu mbe.. ee
+
+Logle I n !' ul Levels: (to ope &quot;a teCH ON, CH OFF Ct CUE).
+
+Logic 0: 0 10 +1) &quot; 0 115.
+
+Logic 1: +16 10 +2 4,,0 115.
+
+EX l e..nel Con l..er OUl !, u t: (O !'. m col leo:to.. c u....en t sink).
+
+**TECHNICAL DATA**
+
+Minimum IOll'd imp ed llnc e: 6 00 ohm l.
+
+Max im&quot; m load curr e n t' 40 mA.
+
+Maximum 11.Ipply vol lage: +24 vol lS.
+
+SlItur&quot;tedcollec tor voltllge:
+
+Power ReQuirements, +/_25 vol lS dc, 40 mA nomin&quot;l, eo mA m.&quot;imum.
+
+o to 60 degrees Celsius.
+
+1.6 &quot; wide x 14.1 5 &quot; high x 6.5 &quot; deep (4 1 mm x 36D mm x 165 mmJ.
+
+**MA90L STEREO INPUT MOOULE**
+
+The M490L provides complete Sl e..eo c h.. n nel rec r uue s, IU.. equired f_ a miNing console, inclusive oft h e Slereo miNing all enu e t_, input seleclo&quot; and mi&quot;i ng buses.ignmen l switches.
+
+All audio circuits pe&quot; la i ning 10 Ihe left ere..eo c h.. nn el es wet lest h e logic conlrol c irc: u i l r y.. relocated on the mo lh erboa rd o f the module. Thee ud io circuits re ta l ing 10 Ih e ri gh l channel are elect.. ic.. lly i den l lc alto Ih e left c h.. nnel and are placed on a sep ee-ale plug-on boa rd, I y pe 7 _1 12A.
+
+Unless nOled otherwise, Ihe fo t lowing description..e fe.. s 10 the che nne les well as I h e con l ro l ci rcu ll s common 10 both ch.. nne ls.
+
+The mutually In te.. locked INPUT SELECTOR swilch.,. SWI end SW2 permlt Ihe setee uee o f one o f two avail able Slereo sources. An add ilione l cO''lIact Is supplied one e ch s wi l ch f_ con lro l pur-poses.
+
+Follow ing the INPUT SELECTORS, two bel anced insert points ere provided, one, _ eech channel. Their purpose is to pe rml l; n s e &quot; l lon o f ancillary equipment, such as equalizers, fll te rs orc omp..e s50...., l n lot he l efl orr i g h t channels ignal path.
+
+The Is ol all o n net w_ k R l to R4 p..e sen ts bridging imp eden c e of app..o,dma tely 30,000 ohms tot he source. In e p pl ice tion s where aline terminal Ion Is reQui..ed, a 150 0 &quot; 6 00 ohm.. e,.i,. lo.. maybe connected across the module In p u l. Un balanced sign e l sources will require the addition of isole t; o n I..ando..me.. s e&quot; l erna ito I h e module.
+
+The Input ne two..k feeds I hep..eam plifi e.., consisting o f ZI, Z2, 0 1 and 02. RIO Is a continuously ve ri a bl.. SENSITIVITY control for Ih e LEFT channel. II eev e r l a range o f 20 dB, perm ill ing Input le l/ e II f..om -10 dBm 10 +10 dBm 10 b.. a c co mmo dated.
+
+Simila.. ly, R I 35 le,.ves a s t t-e SENSITIVITY cont..ol fo.. I heR IGHT
+
+chan n e l. Both cont,.o ls a,... access i b let h.. ough opening,. i n 11'1e module f..on l panel, with R13S placed j U11 eb c ve RIO.
+
+**M4 90L STEREO INPUT MODULE**
+
+The preampl lf lel&quot; OUIPu l is coup led via C1 10 one half o f I h e ml&quot; lng alt e n u a tOI&quot; ATTI, wilh I h e second half of ATT I used for Ihe I&quot;i g hl Channel. The CUE channel feed is taken fl&quot;Om I h e inputs ide of Ihe attenuatol&quot;.
+
+Progl&quot;am Channel Switch
+
+Z3 is a CM.OS ana log SWi lCh, serving as I h e a Clive swi l ching element of lhe l efl PROGRAM channel. The conlro l voltage 10 oe e r-et e Z3 I. de l&quot;lved from Ihe logic c il&quot;Cui ll&quot;Y within Ih e module and I. coupled to Z 3 via CR2. to switch the channel ON, this cont l&quot;ol voltage is In Ih e ol&quot;del&quot; 01.10 vol IS • When the con ll&quot;Ol voltage dl&quot;DP S to 0 voh., l he switch will b e OFF, I&quot;e s u l lin gIna signal allen ua tlon of more than 100 dB. The control voltage used 10 OPel&quot;ate Z 3 is also fed Into the.. igh t channel c il&quot;Cult l&quot;y via pin E5 on l he 1 _ 112A ca.. d.
+
+Following ZJ, the signal Is amplified by i nteg.-al e d circui ls Z4 and Z5 10 a nominal level o f +3 dBm (e Qu iva len l vot tage) and !&quot;OUted tot he PROGRAM ASSIGN switches SWlI and SW5, via BALANCE sw i lch SW3 and BALANCE cont.-o l R4 2 to R' 5. Due to the J d B inserlion lou 01 Ih e BALANCE control, the signal level 11.1 the i npu l of SW' and SW5 is 0 dBm (e q ui val en t voltage).
+
+In Ih. I&quot;igh t channel, Ih e gain is fixed 10.. e s ull ina +3 dBm oulPul b y insertion o f jumper wire Jl o n PCB 7 _ 112A. The left channel contains Ih e LEVEL BALANC!: con t.. ol R3 1 which is used 10 match Ihe level of I h e left chan n e l tot he &quot;; g h l c h lln ne l. R3 1 is factory set and Should require no I&quot; rt hera dj us tmen t.
+
+Unequal level balance would normally be c orr e c ted b y adjustment oft h e S;;NS I TlV ITY I,. im c ont,.ol s R10 and R1 35. The mixing a llenua to,. ATT I should b e placed int h e to dB &quot; in h and&quot; position to make I h l. lldj u s lmen t.
+
+Switch SW3 se &quot; v es to inse.-t the BAL.ANCE control R42 to R45 Into the signal paths. Op e.-a tlon o f this cO&lt;'t.-ol p e.-miu raising I h e level o f
+
+one oft hes t e r-eo chan n e l s while &quot; educing Ih e level oft h e c rb er-.
+
+**MI&lt;90L STEREO INPUT MODULE**
+
+The maximum dell ia lion from the center position allows e l ell e l change from +3 dB to - SOd B, thus &quot; s s u ring thai I he sum t OI,, 1 power cut put of Ihe I WO Slereo ou tpu lS remains essen ti &quot; l l y cons l &quot;nl e tall times.
+
+The P 1 and P2 ASSIGNMENTs witches SW4 and SW5 simultaneously assign both left and r igh l channels to Ih e PI and/or P 2 PROGRAM mixing buses.
+
+The CUEs lgn e ls o.. l gin &quot; te from bridging l a keo ff salt h ein puts 01 t ha slide &quot; tten ua l o r. Owing tot h e high in p u lImped.. n ceo f the CUE channels, their operation has no effect on the main PROGRAM channels. Z7 rep..esents Ih e &quot;udio switCh for I h e left CUE chan n e l. Sim i l.. rly to Z 3, Ih eco n t r o l 1 to 11&quot; g e for Z7 is generated int h e logic circuitry as d e sc.. ib ed f u &quot;lher o n. The output 01 Z7 is followed b y the booster amp l i lie.. za, which int urn feeds the Cue bus m;x lng network R72 /73.
+
+The.. ig h t CUE chen n e l operates ina n identical man ne.. 10 the le tt ~~:'r d.howell e.., the ci..c ult is located o n the 7_ 1 12A p.. in ted circuit
+
+Post Direct Output
+
+The outputs oft he left and right c b.. n ne l.. mp l lf ie.. s a&quot;e summed toge l he.. before the balances witCh Il ia R38/ R4 1. This node, ale nominal level of 0 dBm, is then brought Out tot h e POST DIRECT output atP I_ 20, 21.
+
+Foldba c k Outputs
+
+The FOL DBACK out p ul S, FBI (l e ftc han n e l) &quot; n d F B2 (right ch&quot; nnel),.... eta ken f..om the POST DIRECTs u mm ing node v i&quot; level controls R52 / R53 (F BI) and R5 4/ R55 (FB 2). The nom in,, 1 output level is 0 dBm with each level con l ro l fully cw.
+
+The cOl'1trol 1I0 i t ages required 10 operate the left and.. i g h l solid
+
+srere PROGRAM &quot; n d CUEs wltc tve s are generated w il h thea id of logic circuitry utilizIng i n te grated c irc u; t s Z9 through Z l2.
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
