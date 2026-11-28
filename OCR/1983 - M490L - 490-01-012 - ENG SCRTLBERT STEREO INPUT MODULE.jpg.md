@@ -1,5 +1,5 @@
 # 1983 - M490L - 490-01-012 - ENG SCRTLBERT STEREO INPUT MODULE.jpg
-Wiki page: [M490L](../../../../PAGES/M490L.md)
+Wiki page: [M490L](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

@@ -1,5 +1,5 @@
 # 1983 - M490L - 490-04-024 - SMILCH SWI THIS SICH THE MOMENIARY JCION IDC.jpg
-Wiki page: [M490L](../../../../PAGES/M490L.md)
+Wiki page: [M490L](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

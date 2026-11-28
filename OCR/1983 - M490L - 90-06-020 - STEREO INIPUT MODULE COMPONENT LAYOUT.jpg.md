@@ -1,5 +1,5 @@
 # 1983 - M490L - 90-06-020 - STEREO INIPUT MODULE COMPONENT LAYOUT.jpg
-Wiki page: [M490L](../../../../PAGES/M490L.md)
+Wiki page: [M490L](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

@@ -1,5 +1,5 @@
 # 1983 - M490L - 490-01-012 - TIMER RESET OFF TALLY OFFISTOP FADER.jpg
-Wiki page: [M490L](../../../../PAGES/M490L.md)
+Wiki page: [M490L](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

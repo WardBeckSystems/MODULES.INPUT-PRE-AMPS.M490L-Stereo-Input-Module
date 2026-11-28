@@ -1,5 +1,5 @@
 # 1983 - M490L - 7-112-02-002 - AND ALL CAPACITORS.jpg
-Wiki page: [M490L](../../../../PAGES/M490L.md)
+Wiki page: [M490L](../)
 
 
 - **Year:** 1983 (module estimate (manual_issue))

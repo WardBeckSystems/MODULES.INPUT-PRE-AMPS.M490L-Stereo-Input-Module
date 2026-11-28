@@ -1,5 +1,5 @@
 # 1983 - 7-112-02-002 - 7-112A CHANNEL AMPLIFIER SCHEMATIC - DRN TR - ENG TR - ISS 1.jpg
-Wiki page: [M490L](../../../../PAGES/M490L.md)
+Wiki page: [M490L](../)
 
 
 - **Year:** 1983 (title block date)

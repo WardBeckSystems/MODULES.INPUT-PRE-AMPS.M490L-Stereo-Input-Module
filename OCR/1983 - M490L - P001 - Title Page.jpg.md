@@ -1,5 +1,5 @@
 # 1983 - M490L - P001 - Title Page.jpg
-Wiki page: [M490L](../../../../PAGES/M490L.md)
+Wiki page: [M490L](../)
 
 
 - **Year:** 1983 (found in this file: "DECEMBER 1983")
